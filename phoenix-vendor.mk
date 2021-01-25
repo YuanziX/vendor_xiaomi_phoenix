@@ -78,4 +78,5 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     QtiTelephonyService \
     dpmserviceapp \
+    ims \
     qcrilmsgtunnel
